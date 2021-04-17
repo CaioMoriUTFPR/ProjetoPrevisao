@@ -1,0 +1,15 @@
+{
+  "name": "projetoprevisao",
+  "version": "1.0.0",
+  "description": "Projeto para usar a API de previsao do tempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Caio Mori",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
